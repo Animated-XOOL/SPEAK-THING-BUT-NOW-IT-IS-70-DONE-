@@ -1,0 +1,41 @@
+body{
+    background: rgb(33,21,56);
+    background: radial-gradient(90deg, rgba(33,21,56,1) 0%, rgba(76,58,115,1) 15%, rgba(61,47,96,1) 39%, rgba(80,72,131,1) 67%, rgba(53,42,106,1) 98%);
+}
+h1{
+    color: aquamarine;
+}
+h2{
+    color: aquamarine;
+}
+h3{
+    color: aquamarine;
+}
+h4{
+    color: aquamarine;
+}
+h5{
+    color: aquamarine;
+}
+p{
+    color: aquamarine;
+}
+label{
+    color:aquamarine;
+}
+#start-btn{
+    width:40%;
+}
+#camera{
+    
+    width:360px;
+    height: 250px;
+    border: 2px solid rgb(44, 51, 49);
+}
+#logo_img{
+    width: 100px;
+    border-radius: 5px;
+}
+#textbox{
+    width:300px;
+}
